@@ -1,18 +1,19 @@
-# Hi 👋, I'm Atul Patil
+<h1 align="center">Hi 👋, I'm Atul Patil</h1>
+<h3 align="center">Laravel & PHP Developer from India 🇮🇳</h3>
 
-### Laravel & PHP Developer from India 🇮🇳
-
-💻 Passionate about developing scalable web applications, ERP systems, and admin dashboards using Laravel & Core PHP.
+<p align="center">
+  Passionate about building scalable web applications, ERP systems & admin dashboards using Laravel and Core PHP.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Currently working on **ERP & Management System Projects**
+* 🔭 Currently working on **ERP & Management Systems**
 * 🌱 Completed **B.Sc Computer Science**
 * 👨‍💻 Skilled in **Laravel, PHP, MySQL, JavaScript, AJAX & REST APIs**
-* 💬 Ask me about **Laravel, Core PHP, CRUD Systems, Admin Panels & APIs**
-* 📫 Reach me at: **[atulpatil3217@gmail.com](mailto:atulpatil3217@gmail.com)**
+* 💬 Ask me about **Laravel, Core PHP, CRUD, Admin Panels**
+* 📫 Email: **[atulpatil3217@gmail.com](mailto:atulpatil3217@gmail.com)**
 
 ---
 
@@ -22,19 +23,18 @@
 
 📅 Feb 2026 - Present
 
-* Developed and maintained Laravel-based web applications
-* Worked on Blade templates, routing, controllers & database management
-* Built CRUD modules, authentication systems & responsive admin panels
-* Collaborated with teams for scalable application development
+* Developed Laravel-based web applications
+* Built CRUD modules & authentication systems
+* Worked on Blade templates, routing & database management
+* Created responsive admin dashboards
 
 ### PHP Intern — Brightbrew Media & Solutions Pvt.
 
 📅 Aug 2025 - Jan 2026
 
-* Built dynamic web pages using Core PHP & MySQL
-* Implemented CRUD operations, validation & REST API integrations
-* Used jQuery & AJAX for asynchronous functionality
-* Worked with Laravel fundamentals & responsive UI development
+* Developed dynamic applications using Core PHP & MySQL
+* Implemented APIs, validations & AJAX functionality
+* Worked with Laravel basics & responsive UI
 
 ---
 
@@ -42,35 +42,25 @@
 
 ### Backend
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-<img src="https://laravel.com/img/logomark.min.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
 </p>
 
 ### Frontend
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="40" height="40"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" />
 </p>
 
-### Tools & Technologies
+### Tools
 
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 * 🩸 Blood Bank Management System
 * 🏢 OneBusiness ERP
@@ -78,19 +68,18 @@
 * 🤖 JARVIS AI Assistant
 * 💼 HRMS Admin Dashboard
 * 📅 Task Management System
-* 👥 Client & Leads Management Module
-* 💄 Varnika Appointment Booking System
+* 👥 Client & Leads Management
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=blackyyy1&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blackyyy1&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=blackyyy1&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackyyy1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -99,14 +88,14 @@
 
 <p align="left">
 <a href="https://instagram.com/atul._.patil" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 
 <a href="https://github.com/blackyyy1" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
 
 ---
 
-⭐ Passionate about building modern Laravel applications and continuously improving development skills.
+⭐ Always learning and building modern Laravel applications.
