@@ -21,7 +21,7 @@
 
 ### Laravel Developer — BVM Infotech
 
-📅 Feb 2026 - Present
+📅 Feb 2026 - May 2026
 
 * Developed Laravel-based web applications
 * Built CRUD modules & authentication systems
